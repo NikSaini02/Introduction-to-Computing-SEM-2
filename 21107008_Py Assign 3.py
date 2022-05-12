@@ -1,6 +1,6 @@
-#Name  : Navodit Gupta
-#SID   : 21107082
-#Branch: Mechanical
+#Name  : Nikhil Saini
+#SID   : 21107008
+#Branch: Mechanical Engg
 import math
 
 print('Q1')
